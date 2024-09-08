@@ -5,6 +5,7 @@ cd harddrio
 clear
 echo "HardDrio bash shell started."
 bash
+rm potato-land.jpg
 clear
 echo "HardDrio"
 echo "_____________________________"
